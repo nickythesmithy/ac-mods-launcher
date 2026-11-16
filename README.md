@@ -92,7 +92,7 @@ Logs are saved in `%LOCALAPPDATA%\AC Mods Launcher\Logs`. When you report a prob
 
 ## Antivirus warnings
 
-The launcher is an unsigned program, and some antivirus tools are cautious about those. The launcher program in version 0.7.4 scanned clean on VirusTotal (0 detections). You can check any file yourself by uploading it to [VirusTotal](https://www.virustotal.com/).
+The launcher is an unsigned program, and some antivirus tools are cautious about those. The 0.7.4 download scanned clean on VirusTotal (0 detections from 66 security vendors). You can check any file yourself by uploading it to [VirusTotal](https://www.virustotal.com/).
 
 ## Credits
 
