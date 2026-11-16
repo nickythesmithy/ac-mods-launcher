@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><b>Download the latest version</b></a>
+  <a href="../../releases/latest"><b>Download The Latest Version</b></a>
   &nbsp;|&nbsp;
   <a href="https://www.nexusmods.com/assassinscreedblackflagresynced/mods/658">Nexus Mods Page</a>
   &nbsp;|&nbsp;
