@@ -1,0 +1,3 @@
+# The download ZIP is attached to a GitHub Release, never committed
+/release-assets/
+*.zip

@@ -1,0 +1,74 @@
+ASSASSIN'S CREED MODS LAUNCHER - FREEWARE LICENCE
+
+Copyright (c) 2026 nickythesmithy. All rights reserved except as granted below.
+
+By downloading, extracting or running the Assassin's Creed Mods Launcher (the "Software"), you agree to this licence. If you do not agree, do not use the Software.
+
+1. WHAT YOU MAY DO
+
+You may:
+a) use the Software free of charge, for personal, non-commercial purposes;
+b) install it on any number of your own computers;
+c) copy and share the original, unmodified download ZIP exactly as published, free of charge, provided every file in it (including the Licenses folder and START HERE) stays intact and the Software is credited to its author.
+
+2. WHAT YOU MAY NOT DO
+
+You may not:
+a) sell, rent, lease or otherwise charge for the Software, or include it in anything that is sold or monetised (including paid mods, paid collections, paywalled or ad-gated downloads, and donation-locked files);
+b) modify the Software, or decompile, disassemble or reverse engineer it, except where the law of your country gives you that right and forbids this limit;
+c) remove or change any copyright notice, licence notice, credit or file in the download;
+d) present the Software, or any part of it, as your own work;
+e) repack the Software or its loader files into another launcher, installer or mod, or redistribute them separately from the original download, without written permission from the author;
+f) use the Software to harm others, to gain an unfair advantage over other players, or in online or multiplayer play.
+
+3. SOURCE CODE
+
+The source code is not published and is not licensed to you. Nothing in this licence gives you any right to it.
+
+4. MODS ARE SEPARATE
+
+The Software does not include any gameplay mods. Mods you add are made by their own authors and are covered by their own terms. The author of this Software is not responsible for any mod, for whether a mod is compatible, or for what a mod does.
+
+5. THIRD-PARTY COMPONENTS
+
+The Software includes the following third-party components, each under its own licence. Their notices are in the Licenses folder of the download and continue to apply to those components:
+- Ultimate ASI Loader, by ThirteenAG
+- Dear ImGui, by Omar Cornut
+- MinHook, by Tsuda Kageyu, and its credited components
+- Microsoft Visual C++ runtime files (msvcp140.dll, vcruntime140.dll, vcruntime140_1.dll), distributed under Microsoft's redistribution terms
+
+Nothing in this licence changes the terms of those components.
+
+6. UBISOFT AND THE GAME
+
+This is an unofficial fan-made tool. It is not made, approved, sponsored or endorsed by Ubisoft Entertainment or any of its affiliates.
+
+Assassin's Creed, Black Flag, and all related names, logos, artwork, game content and trademarks belong to Ubisoft or their respective owners. The launcher's background music is from Assassin's Creed Rogue, published by Ubisoft Music, and remains the property of its rights holders. It is not licensed to you under this licence and you receive no rights to it beyond hearing it played inside the Software.
+
+You need your own legitimate copy of the game. The Software does not include, and must not be used to distribute, any game files.
+
+7. YOUR RISKS
+
+Modding a game can break it, corrupt saves, cause crashes, or breach the game's or a platform's terms of service. Back up your game and your saves before you use the Software. You use it at your own risk.
+
+The Software's Uninstall function removes the loader files and the whole mods folder of the selected game installation, including mods that did not come from this Software.
+
+8. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR THAT IT WILL BE ERROR-FREE OR FREE OF HARMFUL COMPONENTS. As an unsigned program, it may trigger warnings from antivirus or operating system security tools.
+
+9. LIMITATION OF LIABILITY
+
+TO THE FULLEST EXTENT PERMITTED BY LAW, THE AUTHOR IS NOT LIABLE FOR ANY DAMAGES, INCLUDING LOSS OF DATA, LOSS OF SAVES, DAMAGE TO YOUR GAME, COMPUTER OR ACCOUNT, OR ANY INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES, ARISING FROM THE USE OF, OR INABILITY TO USE, THE SOFTWARE. Nothing in this licence excludes liability that cannot be excluded by law, including liability to consumers under mandatory consumer-protection law.
+
+10. SUPPORT AND UPDATES
+
+The Software is free. The author has no obligation to provide support, fixes, updates or support for further games or game versions.
+
+11. TERMINATION
+
+This licence ends automatically if you break any of its terms. When it ends, you must stop using the Software and delete your copies. Sections 3, 5, 6, 8 and 9 survive termination.
+
+12. CONTACT
+
+Questions or permission requests: open an issue on this repository.
