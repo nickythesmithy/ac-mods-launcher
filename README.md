@@ -14,6 +14,8 @@
   &nbsp;|&nbsp;
   <a href="https://www.nexusmods.com/assassinscreedblackflagresynced/mods/658">Nexus Mods Page</a>
   &nbsp;|&nbsp;
+  <a href="https://www.nexusmods.com/assassinscreedblackflagresynced/mods/659">Mods</a>
+  &nbsp;|&nbsp;
   <a href="https://www.virustotal.com/gui/file/5d4ae93977676d6df3fa4a1c9ed74e2934d993fb10f893f64f6a1a8c0df59939?nocache=1">VirusTotal</a>
 </p>
 
