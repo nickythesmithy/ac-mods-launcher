@@ -16,7 +16,7 @@
   &nbsp;|&nbsp;
   <a href="https://www.nexusmods.com/assassinscreedblackflagresynced/mods/659">Mods</a>
   &nbsp;|&nbsp;
-  <a href="https://www.virustotal.com/gui/file/5d4ae93977676d6df3fa4a1c9ed74e2934d993fb10f893f64f6a1a8c0df59939?nocache=1">VirusTotal</a>
+  <a href="https://www.virustotal.com/gui/file/979e8d9044b418aaf211553b957de93b060650920be7fe3821e60f92fdf391ab?nocache=1">VirusTotal</a>
 </p>
 
 ---
@@ -96,7 +96,7 @@ Logs are saved in `%LOCALAPPDATA%\AC Mods Launcher\Logs`. When you report a prob
 
 ## Antivirus warnings
 
-The launcher is an unsigned program, and some antivirus tools are cautious about those. The 0.7.4 download scanned clean on VirusTotal (0 detections from 66 security vendors). You can check any file yourself by uploading it to [VirusTotal](https://www.virustotal.com/).
+The launcher is an unsigned program, and some antivirus tools are cautious about those. The 0.7.5 download scanned clean on VirusTotal (0 detections from 67 security vendors). You can check any file yourself by uploading it to [VirusTotal](https://www.virustotal.com/).
 
 ## Credits
 

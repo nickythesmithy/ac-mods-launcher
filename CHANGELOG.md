@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.7.5 (19 November 2026)
+
+- We've made some stability improvements.
+- Press Update Loader once after updating.
+
 ## 0.7.4 (16 November 2026)
 
 - Fewer antivirus false alarms: the download now scans clean on VirusTotal.
